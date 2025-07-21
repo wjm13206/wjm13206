@@ -1,16 +1,16 @@
-## Hi there 👋
+# 你好
 
-<!--
-**wjm13206/wjm13206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是[wjm12306](https://wjm.nki.pw/)，一个默默无闻的学生党
 
-Here are some ideas to get you started:
+## 在Github的精神状态 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![wjm13206's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjm13206&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjm13206&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 友情链接 Hyperlinks
+
+- 博客 Blog | [https://wjm.nki.pw/](https://wjm.nki.pw/)
+- 哔哩哔哩 Bilibili | [https://space.bilibili.com/3546791251282775](https://space.bilibili.com/3546791251282775)
+
+
