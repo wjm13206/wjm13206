@@ -42,7 +42,7 @@
 
 ## 友情链接 Hyperlinks
 
-- 博客 Blog | [https://wjm.nki.pw/](https://wjm.nki.pw/)
+- 博客 Blog | [https://0988.nki.pw/](https://0988.nki.pw/)
 - 哔哩哔哩 Bilibili | [https://space.bilibili.com/3546791251282775](https://space.bilibili.com/3546791251282775)
 
 
