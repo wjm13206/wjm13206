@@ -1,6 +1,6 @@
 # 你好
 
-我是[0988](https://wjm.nki.pw/)
+我是[0988](https://0988.nki.pw/)
 
 ## 在Github的精神状态 
 
