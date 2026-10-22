@@ -1,8 +1,8 @@
 # 你好
 
-我是[0988](https://0988.nki.pw/)
+我是 [0988](https://0988.nki.pw/)
 
-## 在Github的精神状态 
+## 在 GitHub 的精神状态
 
 <picture>
   <source
@@ -13,31 +13,37 @@
     srcset="./profile-3d-contrib/profile-green-animate.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D 贡献图" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-stats-extended.vercel.app/api?username=wjm13206&show_icons=true&include_all_commits=true&rank_icon=percentile&locale=cn&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-stats-extended.vercel.app/api?username=wjm13206&show_icons=true&include_all_commits=true&rank_icon=percentile&locale=cn&theme=default"
+    srcset="https://github-stats-extended.vercel.app/api?username=wjm13206&amp;include_all_commits=true&amp;theme=light_github&amp;locale=cn"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-stats-extended.vercel.app/api?username=wjm13206&show_icons=true&include_all_commits=true&rank_icon=percentile&locale=cn" />
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=wjm13206&amp;include_all_commits=true&amp;theme=dark&amp;locale=cn"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=wjm13206&amp;include_all_commits=true&amp;theme=light_github&amp;locale=cn"
+    alt="GitHub 统计信息"
+  />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=wjm13206&locale=cn&layout=compact&theme=dark"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=wjm13206&amp;locale=cn&amp;layout=compact&amp;theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=wjm13206&locale=cn&layout=compact&theme=default"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=wjm13206&amp;locale=cn&amp;layout=compact&amp;theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wjm13206&locale=cn&layout=compact" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=wjm13206&amp;locale=cn&amp;layout=compact"
+    alt="最常使用的编程语言"
+  />
 </picture>
 
 ## 链接
