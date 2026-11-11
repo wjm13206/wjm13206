@@ -2,6 +2,13 @@
 
 我是 [0988](https://0988.nki.pw/)
 
+## 正在进行的项目
+
+- WenOS —— 一个使用 Rust、C++ 和汇编开发的操作系统。
+- [WBuild](https://github.com/wjm13206/WBuild) —— 构建工具。
+- [WenBlog](https://github.com/wjm13206/WenBlog) —— 一个用 php 开发的个人博客平台。
+- (https://github.com/wjm13206/THubX) —— 一个功能强大的 Roblox 多功能工具集
+
 ## 在 GitHub 的精神状态
 
 <picture>
