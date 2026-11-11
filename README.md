@@ -46,6 +46,18 @@
   />
 </picture>
 
+##  工具:
+
+&emsp;&emsp;
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows11&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=Debian&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=WindowsTerminal&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=MicrosoftEdge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+
 ## 链接
 
 - 博客 Blog | [https://0988.nki.pw/](https://0988.nki.pw/)
